@@ -1,0 +1,59 @@
+POD, FROM THE CAB TO THE INVOICE
+Video transcript (voice-over and on-screen text)
+Made for GD-iTS Group (G. van Doesburg Int. Transport). Length 2:15.80. Voice: generated, British English (Ryan).
+All jobs, names and times are illustrative.
+
+
+[0:01.00]  OPEN
+On screen: Axe Global logo. "Made for" with the GD-iTS Group logo.
+
+0:01.00  This is a short look at one thing: a proof of delivery, from the cab to the invoice.
+0:06.18  All jobs and times shown are illustrative.
+
+[0:09.49]  THE JOB
+On screen: Booking BKG-2026-40117: Zaltbommel depot to Milan area, customer ref PO 48213, 26 pallets. Job arrives on the driver's phone.
+
+0:09.49  Monday afternoon, a job is booked against your customer's reference: 26 pallets from Zaltbommel to the Milan area.
+0:17.04  It goes to the driver's phone with the trip, so the paperwork starts where the cargo does.
+
+[0:22.61]  POD ON THE PHONE
+On screen: Phone: signature (M. Rossi), photo of the load, "Delivered 14:12", Milan-area pin. Right side: Signature, Photo, Time (Tuesday 14:12), Place land on job BKG-2026-40117.
+
+0:22.61  Tuesday, 14:12. Your driver delivers near Milan.
+0:27.78  On the phone the driver takes the signature and a photo of the load.
+0:31.73  Time and place are stamped, and the POD sits on the job, not in a folder in the cab.
+
+[0:37.66]  INVOICE RAISED
+On screen: Invoice issued by G. van Doesburg Int. Transport (no amounts). "Job closed". Cards: Delivered 14:12 | Invoiced 14:20 (green). "Billed the day the job closed". "A day or two earlier".
+
+0:37.66  With the POD on the job, the job closes.
+0:41.09  The invoice is raised the same afternoon, in your own system, against your customer's reference.
+0:47.24  Delivered at 14:12, invoiced at 14:20. The job bills on the day it closed.
+0:54.49  When jobs bill on the day they close, the money starts moving a day or two earlier.
+
+[1:00.23]  THE MISSING POD
+On screen: Job BKG-2026-40122, Zaltbommel to Ghent. "Status: delivered", "POD: not received". Day counter (amber): Day 0, Day 1. Thursday "POD outstanding" list, job on top. Chase log: 09:10 Driver called. 09:25 Receiver's goods-in contacted. 10:02 Signed copy received and attached. 10:02 Invoice out. Cut-away: "Friday, if the receiver had not answered", row in red "Day 2, overdue".
+
+1:00.23  Now the one that matters.
+1:02.77  Wednesday, a next-day delivery in Belgium. The status says delivered. No POD has come back.
+1:11.38  The job stays open, and a counter starts.
+1:14.46  On Thursday morning it is at the top of the outstanding list, oldest first.
+1:19.30  Your office does not chase it.
+1:21.49  An Axe Global specialist calls the driver, then the receiver's goods-in, gets the signed copy and attaches it.
+1:28.19  The invoice goes out before midday.
+1:30.72  Had the receiver not answered by Friday, the job would turn red and reach your team with every call already logged.
+1:37.64  The system finds the gap. A person closes it.
+
+[1:42.41]  EXCEPTION: ROTTERDAM TERMINAL
+On screen: Phone: "Waiting time" ticked, 95 minutes on site. Figures: 95 min on site, 60 min free, 35 min billed. Supplemental invoice line: "Waiting time: 35 min (95 min on site, 60 min free, POD reference)".
+
+1:42.41  One exception. At a Rotterdam terminal the driver ticks waiting time: 95 minutes on site, 60 free.
+1:51.00  The extra 35 minutes go onto a supplemental invoice with the POD times attached.
+1:56.86  Billed, not written off at month end.
+
+[2:00.12]  CLOSE
+On screen: The question on white. Then Axe Global logo, axeglobal.ai, and: "What we need to start: access to your systems, a sample of recent jobs, and one named contact."
+
+2:00.12  Which leaves what we do not know yet: today, do your PODs reach you on paper, by photo or through a driver app, and how long does a job sit before it is invoiced?
+
+[2:09.90 to 2:15.80]  End card: Axe Global logo, axeglobal.ai, start-up requirements line. No voice.

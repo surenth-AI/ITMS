@@ -1,0 +1,168 @@
+1
+00:00:01,000 --> 00:00:04,166
+This is a short look at one thing: a proof of delivery,
+
+2
+00:00:04,166 --> 00:00:06,178
+from the cab to the invoice.
+
+3
+00:00:06,178 --> 00:00:09,290
+All jobs and times shown are illustrative.
+
+4
+00:00:09,490 --> 00:00:10,575
+Monday afternoon,
+
+5
+00:00:10,575 --> 00:00:13,764
+a job is booked against your customer's reference:
+
+6
+00:00:13,764 --> 00:00:17,035
+26 pallets from Zaltbommel to the Milan area.
+
+7
+00:00:17,035 --> 00:00:19,397
+It goes to the driver's phone with the trip,
+
+8
+00:00:19,397 --> 00:00:22,412
+so the paperwork starts where the cargo does.
+
+9
+00:00:22,612 --> 00:00:27,784
+Tuesday, 14:12. Your driver delivers near Milan.
+
+10
+00:00:27,784 --> 00:00:31,064
+On the phone the driver takes the signature and a photo of the
+
+11
+00:00:31,064 --> 00:00:31,729
+load.
+
+12
+00:00:31,729 --> 00:00:35,189
+Time and place are stamped, and the POD sits on the job,
+
+13
+00:00:35,189 --> 00:00:37,457
+not in a folder in the cab.
+
+14
+00:00:37,657 --> 00:00:41,094
+With the POD on the job, the job closes.
+
+15
+00:00:41,094 --> 00:00:44,784
+The invoice is raised the same afternoon, in your own system,
+
+16
+00:00:44,784 --> 00:00:47,241
+against your customer's reference.
+
+17
+00:00:47,241 --> 00:00:50,804
+Delivered at 14:12, invoiced at 14:20.
+
+18
+00:00:50,804 --> 00:00:54,486
+The job bills on the day it closed.
+
+19
+00:00:54,486 --> 00:00:56,715
+When jobs bill on the day they close,
+
+20
+00:00:56,715 --> 00:01:00,027
+the money starts moving a day or two earlier.
+
+21
+00:01:00,227 --> 00:01:02,372
+Now the one that matters.
+
+22
+00:01:02,772 --> 00:01:06,604
+Wednesday, a next-day delivery in Belgium.
+
+23
+00:01:06,604 --> 00:01:11,383
+The status says delivered. No POD has come back.
+
+24
+00:01:11,383 --> 00:01:14,460
+The job stays open, and a counter starts.
+
+25
+00:01:14,460 --> 00:01:18,118
+On Thursday morning it is at the top of the outstanding list,
+
+26
+00:01:18,118 --> 00:01:19,297
+oldest first.
+
+27
+00:01:19,297 --> 00:01:21,491
+Your office does not chase it.
+
+28
+00:01:21,491 --> 00:01:23,942
+An Axe Global specialist calls the driver,
+
+29
+00:01:23,942 --> 00:01:25,634
+then the receiver's goods-in,
+
+30
+00:01:25,634 --> 00:01:28,193
+gets the signed copy and attaches it.
+
+31
+00:01:28,193 --> 00:01:30,721
+The invoice goes out before midday.
+
+32
+00:01:30,721 --> 00:01:33,027
+Had the receiver not answered by Friday,
+
+33
+00:01:33,027 --> 00:01:36,371
+the job would turn red and reach your team with every call
+
+34
+00:01:36,371 --> 00:01:37,636
+already logged.
+
+35
+00:01:37,636 --> 00:01:42,211
+The system finds the gap. A person closes it.
+
+36
+00:01:42,411 --> 00:01:43,606
+One exception.
+
+37
+00:01:43,606 --> 00:01:48,213
+At a Rotterdam terminal the driver ticks waiting time:
+
+38
+00:01:48,213 --> 00:01:51,002
+95 minutes on site, 60 free.
+
+39
+00:01:51,002 --> 00:01:55,149
+The extra 35 minutes go onto a supplemental invoice with the
+
+40
+00:01:55,149 --> 00:01:56,862
+POD times attached.
+
+41
+00:01:56,862 --> 00:01:59,323
+Billed, not written off at month end.
+
+42
+00:02:00,123 --> 00:02:10,404
+Which leaves what we do not know yet: today, do your PODs reach you on paper, by photo or through a driver app, and how long does a job sit before it is invoiced?
+
